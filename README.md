@@ -1,1 +1,1 @@
-## [Technical Documentation Page](https://williams-bo.github.io/random-quote-generator-fcc/)
+## [Technical Documentation Page](https://williams-bo.github.io/technical-documentation-page-fcc/)
